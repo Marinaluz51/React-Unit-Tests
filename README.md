@@ -1,7 +1,3 @@
-# Prática: Lista de Usuários
-
-Esta prática exemplifica como fazer uma listagem de usuários no React.js.
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
